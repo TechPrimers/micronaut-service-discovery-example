@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.techprimers.micronaut
+---
+testFramework: junit
+sourceLanguage: java
